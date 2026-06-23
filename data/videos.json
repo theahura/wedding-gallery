@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "Highlights",
+      "showTitles": true,
+      "videos": [
+        { "name": "Highlight Reel (directed by Christopher Nolan)", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/highlights/feature-film.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/highlights/posters/feature-film.jpg" },
+        { "name": "Haldi", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/highlights/haldi.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/highlights/posters/haldi.jpg" },
+        { "name": "Wedding Ceremony", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/highlights/wedding.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/highlights/posters/wedding.jpg" }
+      ]
+    },
+    {
+      "title": "Sangeet",
+      "videos": [
+        { "name": "Senorita", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/01-senorita.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/01-senorita.jpg", "people": ["Akhil", "Kamni", "Amol", "Mia"] },
+        { "name": "Mamta", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/02-mamta.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/02-mamta.jpg", "people": ["Mamta", "Harsh", "Reshma", "Vishal", "Jay", "Mona J.", "Chanchal", "Shreya", "Nidhi", "Aruhi", "Puneet", "Shefali", "Rama"] },
+        { "name": "Anjali + Mounika", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/03-anjali-mounika.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/03-anjali-mounika.jpg", "people": ["Anjali", "Mounika", "Sara", "Rex", "Vinay"] },
+        { "name": "Mia", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/04-mia.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/04-mia.jpg", "people": ["Mia", "Torin", "Brianna", "Alejandra"] },
+        { "name": "Amol", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/05-amol.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/05-amol.jpg", "people": ["Amol", "Rachit", "Rohan", "Maulin", "Yash"] },
+        { "name": "Ben", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/06-ben.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/06-ben.jpg", "people": ["Ben B.", "Ashwin", "David H.", "Lesami", "Harman"] },
+        { "name": "Jojo", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/07-jojo.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/07-jojo.jpg", "people": ["Jojo", "Rhea", "Ella", "Jamie", "Cindy"] },
+        { "name": "Pingry", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/08-pingry.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/08-pingry.jpg", "people": ["Sarah", "Tracey", "Kathleen", "Jason", "Derek", "Max", "Wenrui", "Iz"] },
+        { "name": "NYC", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/09-nyc.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/09-nyc.jpg", "people": ["Raymond", "Keegan", "Azraf", "Darnell", "Sean", "Mike", "Larry"] },
+        { "name": "Soot", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/10-soot.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/10-soot.jpg", "people": ["Noa", "Hunter", "Ganesh", "Vaidehi"] },
+        { "name": "Hills", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/11-hills.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/11-hills.jpg" },
+        { "name": "Mahesh", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/12-mahesh.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/12-mahesh.jpg", "people": ["Mahesh", "Seema"] },
+        { "name": "Pulkit", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/13-pulkit.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/13-pulkit.jpg", "people": ["Pulkit", "Chanchal"] },
+        { "name": "Mia and Amol", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/14-mia-and-amol.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/sangeet/posters/14-mia-and-amol.jpg", "people": ["Mia", "Amol"] }
+      ]
+    },
+    {
+      "title": "Reception",
+      "videos": [
+        { "name": "Amol & Mia", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/01-amol-and-mia.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/01-amol-and-mia.jpg", "people": ["Amol", "Mia"] },
+        { "name": "Amol's Parents", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/02-amol-parents.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/02-amol-parents.jpg", "people": ["Kamni", "Akhil", "Amol", "Mia"] },
+        { "name": "Amol & Mom", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/03-amol-and-mom.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/03-amol-and-mom.jpg", "people": ["Kamni", "Amol"] },
+        { "name": "Mia's Parents", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/04-mias-parents.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/04-mias-parents.jpg", "people": ["Wil", "Tama", "Amol", "Mia"] },
+        { "name": "Mia & Dad", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/05-mia-and-dad.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/05-mia-and-dad.jpg", "people": ["Mia", "Wil"] },
+        { "name": "Bridesmaids", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/06-bridesmaids.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/06-bridesmaids.jpg", "people": ["Alejandra", "Brianna", "Amol", "Mia"] },
+        { "name": "Anjali", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/07-anjali.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/07-anjali.jpg", "people": ["Anjali", "Amol", "Mia"] },
+        { "name": "NYC Friends", "src": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/08-nyc-friends.mp4", "poster": "https://pub-bd02adcb50a140bb9485b58953163d77.r2.dev/reception/posters/08-nyc-friends.jpg", "people": ["Ritam", "Shreyas", "Jenny L.", "Tanya", "Mehar", "Nikhil", "D'Arcy", "Sanchit"] }
+      ]
+    }
+  ]
+}
